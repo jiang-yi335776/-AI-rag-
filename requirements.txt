@@ -1,0 +1,8 @@
+langchain_community
+faiss-cpu
+gradio
+python-dotenv
+dashscope
+langchain-core
+langchain-text-splitters
+langchain-classic
